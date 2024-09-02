@@ -2,18 +2,6 @@
 <html lang="en">
 <head>
     <title>Chair Repair Dubai: A Comprehensive Guide to Restoring Your Furniture</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-        h1, h2, h3 {
-            text-align: center;
-        }
-        p {
-            line-height: 1.5;
-        }
-    </style>
 </head>
 <body>
     <h1>Chair Repair Dubai: A Comprehensive Guide to Restoring Your Furniture</h1>
