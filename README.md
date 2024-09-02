@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
     <title>Chair Repair Dubai: A Comprehensive Guide to Restoring Your Furniture</title>
 </head>
