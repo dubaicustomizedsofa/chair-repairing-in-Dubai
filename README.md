@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Chair Repair Dubai: A Comprehensive Guide to Restoring Your Furniture</title>
+    <Title>Chair Repair Dubai: A Comprehensive Guide to Restoring Your Furniture</Title>
 </head>
 <body>
     <H1>Chair Repair Dubai: A Comprehensive Guide to Restoring Your Furniture</H1>
