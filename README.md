@@ -38,6 +38,5 @@
     </ul>
 
     <h2>Conclusion</h2>
-    <p>Chair repair services in Dubai offer a valuable solution for restoring damaged or worn-out furniture pieces. By understanding the common types of repairs, considering important factors when choosing a service, and practicing proper maintenance, you can ensure that your cherished chairs remain functional and beautiful for years to come. Whether you have a vintage heirloom or a modern designer piece, professional chair repair can help you preserve and enjoy your furniture for generations to come.</p>
-</body>
+    <p>Chair repair services in Dubai offer a valuable solution for restoring damaged or worn-out furniture pieces. By understanding the common types of repairs, considering important factors when choosing a service, and practicing proper maintenance, you can ensure that your cherished chairs remain functional and beautiful for years to come. Whether you have a vintage heirloom or a modern designer piece, professional chair repair can help you preserve and enjoy your furniture for generations to come.</p></body>
 </html>
